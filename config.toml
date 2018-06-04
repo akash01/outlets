@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "slate theme demo"
+title = "outlets"
 theme = "slate"
 
 publishDir = "docs"
@@ -33,3 +33,8 @@ icon = "headphones"
 name = "video"
 tag = "video"
 icon = "video-camera"
+
+[[ params.nav ]]
+name = "electronics"
+tag = "electronics"
+icon = "headphones"

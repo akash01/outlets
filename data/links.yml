@@ -1,5 +1,38 @@
 tiles:
 -
+  name: "verkkokauppa"
+  url: "https://view.24mags.com/schedule/verkkokauppa.com/tarjouslehti"
+  img: "logos/verkkokauppa.svg"
+  tags: ["favorite", "electronics"]
+-
+  name: "power"
+  url: "https://tarjousliite.power.fi/"
+  img: "logos/power.svg"
+  tags: ["favorite", "electronics"]
+-
+  name: "gigantti"
+  url: "https://www.gigantti.fi/cms/viikon_tarjoustuotteet/viikkotarjoukset/"
+  img: "logos/gigantti.svg"
+  tags: ["favorite", "electronics"]
+-
+  name: "teknik"
+  url: "https://view.24mags.com/schedule/verkkokauppa.com/tarjouslehti"
+  img: "logos/teknik.png"
+  tags: ["electronics"]
+-
+  name: "veikonkone"
+  url: "http://verkkolehti.veikonkone.fi/tabloid_vko23-1/page/1"
+  img: "logos/veikonkone.svg"
+  tags: ["electronics"]
+
+-
+  name: "Clas Ohlson"
+  url: "http://verkkolehti.veikonkone.fi/tabloid_vko23-1/page/1"
+  img: "logos/clas-ohlson.svg"
+  tags: ["general"]
+
+  
+-
   name: "google"
   url: "https://google.com"
   img: "logos/google.svg"
