@@ -1,22 +1,35 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "slate theme demo"
 theme = "slate"
 
-[ params ]
-BackgroundImages = [
-  "bg/b1920-000.jpg",
-  "bg/b1920-001.jpg",
-  "bg/b1920-002.jpg",
-  "bg/b1920-003.jpg",
-  "bg/b1920-004.jpg"
-]
-BackgroundStyle = "#000000;"
-OpenLinksInNewWindow = true
-Favicon = "favicon.ico"
+publishDir = "docs"
 
-# list of nav tags
+[ params ]
+Favicon = "favicon.ico"
+OpenLinksInNewWindow = true
+
 [[ params.nav ]]
 name = "favorites"
 tag = "favorite"
 icon = "star"
+
+[[ params.nav ]]
+name = "search"
+tag = "search"
+icon = "search"
+
+[[ params.nav ]]
+name = "shopping"
+tag = "shopping"
+icon = "shopping-basket"
+
+[[ params.nav ]]
+name = "music"
+tag = "music"
+icon = "headphones"
+
+[[ params.nav ]]
+name = "video"
+tag = "video"
+icon = "video-camera"
