@@ -16,26 +16,6 @@ tag = "favorite"
 icon = "star"
 
 [[ params.nav ]]
-name = "search"
-tag = "search"
-icon = "search"
-
-[[ params.nav ]]
-name = "shopping"
-tag = "shopping"
-icon = "shopping-basket"
-
-[[ params.nav ]]
-name = "music"
-tag = "music"
-icon = "headphones"
-
-[[ params.nav ]]
-name = "video"
-tag = "video"
-icon = "video-camera"
-
-[[ params.nav ]]
 name = "electronics"
 tag = "electronics"
 icon = "plug"
@@ -44,3 +24,8 @@ icon = "plug"
 name = "general"
 tag = "general"
 icon = "shopping-basket"
+
+[[ params.nav ]]
+name = "sports"
+tag = "sports"
+icon = "futbol"

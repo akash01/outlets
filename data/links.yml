@@ -39,13 +39,19 @@ tiles:
   bg_color: "red"
   tags: ["general"]
 -
-  url: ""
+  url: "https://www.hongkong.fi/fi/tarjoukset/c/104002"
   img: "logos/hongkong.png"
   tags: ["general"]
 
+# Sports: XXL, Stadium, Intersport, Sportamore, ScandicOutdoor
+-
+  url: "https://ipaper.ipapercms.dk/XXL/FIN/Live/"
+  img: "logos/xxl.svg"
+  bg_color: "black"
+  tags: ["sports"]
+
 # Food: Prisma, Lidl, K-SUpermarket
 # Motonet
-# Sports: XXL, Stadium, Intersport, Sportamore, ScandicOutdoor
 
 # -
 #   name: "google"
