@@ -37,4 +37,9 @@ icon = "video-camera"
 [[ params.nav ]]
 name = "electronics"
 tag = "electronics"
-icon = "headphones"
+icon = "plug"
+
+[[ params.nav ]]
+name = "general"
+tag = "general"
+icon = "shopping-basket"

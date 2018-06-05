@@ -1,134 +1,149 @@
 tiles:
+
+# Electronics
 -
-  name: "verkkokauppa"
+  # name: verkkokauppa
   url: "https://view.24mags.com/schedule/verkkokauppa.com/tarjouslehti"
   img: "logos/verkkokauppa.svg"
   tags: ["favorite", "electronics"]
 -
-  name: "power"
   url: "https://tarjousliite.power.fi/"
   img: "logos/power.svg"
   tags: ["favorite", "electronics"]
 -
-  name: "gigantti"
   url: "https://www.gigantti.fi/cms/viikon_tarjoustuotteet/viikkotarjoukset/"
   img: "logos/gigantti.svg"
   tags: ["favorite", "electronics"]
 -
-  name: "teknik"
-  url: "https://view.24mags.com/schedule/verkkokauppa.com/tarjouslehti"
+  url: "https://issuu.com/teknikmagasinetdigital/docs/teknikmagasinet_2018_fi?e=23448613/55694801"
   img: "logos/teknik.png"
   tags: ["electronics"]
 -
-  name: "veikonkone"
   url: "http://verkkolehti.veikonkone.fi/tabloid_vko23-1/page/1"
-  img: "logos/veikonkone.svg"
+  img: "logos/veikonkone.png"
   tags: ["electronics"]
 
+# General stores
 -
-  name: "Clas Ohlson"
-  url: "http://verkkolehti.veikonkone.fi/tabloid_vko23-1/page/1"
-  img: "logos/clas-ohlson.svg"
+  url: "https://www.clasohlson.com/fi/product/onSale"
+  img: "logos/clas-ohlson.png"
+  tags: ["general"]
+-
+  url: "http://esite.biltema.fi/publication/fd6ff33e/mobile/"
+  img: "logos/biltema.svg"
+  bg_color: "#0071b9"
+  tags: ["general"]
+-
+  url: "https://tokmanni.edocker.com/reader/0e0f9a20-67b3-11e8-87de-00155d64030a"
+  img: "logos/tokmanni.svg"
+  bg_color: "red"
+  tags: ["general"]
+-
+  url: ""
+  img: "logos/hongkong.png"
   tags: ["general"]
 
-  
--
-  name: "google"
-  url: "https://google.com"
-  img: "logos/google.svg"
-  tags: ["favorite", "search"]
--
-  name: "bing"
-  url: "https://bing.com"
-  img: "logos/bing.svg"
-  txt_color: "#ffffff"
-  bg_color: "#ffb900"
-  tags: ["search"]
--
-  name: "amazon"
-  url: "https://amazon.com"
-  img: "logos/amazon.svg"
-  bg_color: "#ffffff"
-  txt_color: "#ff9900"
-  tags: ["favorite", "shopping"]
--
-  name: "reddit"
-  url: "https://reddit.com"
-  img: "logos/reddit.svg"
-  bg_color: "#5f99cf"
-  txt_color: "#ffffff"
--
-  name: "spotify"
-  url: "https://web.spotify.com"
-  img: "logos/spotify.svg"
-  bg_color: "#191414"
-  txt_color: "#1db954"
-  tags: ["favorite", "music"]
--
-  name: "google music"
-  url: "https://play.google.com/music/listen"
-  img: "logos/google-music.png"
-  bg_color: "#ffffff"
-  txt_color: "#ff5722"
-  tags: ["music"]
--
-  name: "pandora"
-  url: "https://pandora.com"
-  img: "logos/pandora.svg"
-  bg_color: "#005483"
-  txt_color: "#ffffff"
-  tags: ["music"]
--
-  name: "soundcloud"
-  url: "https://soundcloud.com"
-  img: "logos/soundcloud.svg"
-  bg_color: "#ffffff"
-  txt_color: "#ff3300"
-  tags: ["music"]
--
-  name: "wikipedia"
-  url: "https://wikipedia.org"
-  img: "logos/wikipedia.svg"
-  bg_color: "#ffffff"
-  txt_color: "#000000"
--
-  name: "ebay"
-  url: "https://ebay.com"
-  img: "logos/ebay.svg"
-  bg_color: "#ffffff"
-  txt_color: "#000000"
-  tags: ["shopping"]
--
-  name: "twitter"
-  url: "https://twitter.com"
-  img: "logos/twitter.svg"
-  bg_color: "#1da1f2"
-  txt_color: "#f5f8fa"
--
-  name: "twitch"
-  url: "https://twitch.com"
-  img: "logos/twitch.svg"
-  bg_color: "#f1f1f1"
-  txt_color: "#6441a5"
-  tags: ["video"]
--
-  name: "youtube"
-  url: "https://youtube.com"
-  img: "logos/youtube.svg"
-  bg_color: "#ffffff"
-  txt_color: "#cd201f"
-  tags: ["video"]
--
-  name: "netflix"
-  url: "https://netflix.com"
-  img: "logos/netflix.svg"
-  bg_color: "#221f1f"
-  txt_color: "#e50914"
-  tags: ["video"]
+# Food: Prisma, Lidl, K-SUpermarket
+# Motonet
+# Sports: XXL, Stadium, Intersport, Sportamore, ScandicOutdoor
 
--
-  name: "imgur"
-  url: "https://imgur.com"
-  img: "logos/imgur.svg"
-  bg_color: "#ffffff"
-  txt_color: "#85bf25"
+# -
+#   name: "google"
+#   url: "https://google.com"
+#   img: "logos/google.svg"
+#   tags: ["favorite", "search"]
+# -
+#   name: "bing"
+#   url: "https://bing.com"
+#   img: "logos/bing.svg"
+#   txt_color: "#ffffff"
+#   bg_color: "#ffb900"
+#   tags: ["search"]
+# -
+#   name: "amazon"
+#   url: "https://amazon.com"
+#   img: "logos/amazon.svg"
+#   bg_color: "#ffffff"
+#   txt_color: "#ff9900"
+#   tags: ["favorite", "shopping"]
+# -
+#   name: "reddit"
+#   url: "https://reddit.com"
+#   img: "logos/reddit.svg"
+#   bg_color: "#5f99cf"
+#   txt_color: "#ffffff"
+# -
+#   name: "spotify"
+#   url: "https://web.spotify.com"
+#   img: "logos/spotify.svg"
+#   bg_color: "#191414"
+#   txt_color: "#1db954"
+#   tags: ["favorite", "music"]
+# -
+#   name: "google music"
+#   url: "https://play.google.com/music/listen"
+#   img: "logos/google-music.png"
+#   bg_color: "#ffffff"
+#   txt_color: "#ff5722"
+#   tags: ["music"]
+# -
+#   name: "pandora"
+#   url: "https://pandora.com"
+#   img: "logos/pandora.svg"
+#   bg_color: "#005483"
+#   txt_color: "#ffffff"
+#   tags: ["music"]
+# -
+#   name: "soundcloud"
+#   url: "https://soundcloud.com"
+#   img: "logos/soundcloud.svg"
+#   bg_color: "#ffffff"
+#   txt_color: "#ff3300"
+#   tags: ["music"]
+# -
+#   name: "wikipedia"
+#   url: "https://wikipedia.org"
+#   img: "logos/wikipedia.svg"
+#   bg_color: "#ffffff"
+#   txt_color: "#000000"
+# -
+#   name: "ebay"
+#   url: "https://ebay.com"
+#   img: "logos/ebay.svg"
+#   bg_color: "#ffffff"
+#   txt_color: "#000000"
+#   tags: ["shopping"]
+# -
+#   name: "twitter"
+#   url: "https://twitter.com"
+#   img: "logos/twitter.svg"
+#   bg_color: "#1da1f2"
+#   txt_color: "#f5f8fa"
+# -
+#   name: "twitch"
+#   url: "https://twitch.com"
+#   img: "logos/twitch.svg"
+#   bg_color: "#f1f1f1"
+#   txt_color: "#6441a5"
+#   tags: ["video"]
+# -
+#   name: "youtube"
+#   url: "https://youtube.com"
+#   img: "logos/youtube.svg"
+#   bg_color: "#ffffff"
+#   txt_color: "#cd201f"
+#   tags: ["video"]
+# -
+#   name: "netflix"
+#   url: "https://netflix.com"
+#   img: "logos/netflix.svg"
+#   bg_color: "#221f1f"
+#   txt_color: "#e50914"
+#   tags: ["video"]
+
+# -
+#   name: "imgur"
+#   url: "https://imgur.com"
+#   img: "logos/imgur.svg"
+#   bg_color: "#ffffff"
+#   txt_color: "#85bf25"
